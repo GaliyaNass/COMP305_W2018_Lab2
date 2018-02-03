@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c066b7d7982d71b48bc4fa19d8a82971
+timeCreated: 1517671833
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - redSprite: {fileID: 21300000, guid: b273504b39fc7434ab38d86e388d033e, type: 3}
+  - galiya: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
